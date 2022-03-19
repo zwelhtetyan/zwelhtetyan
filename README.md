@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
-<h3 align="center">A passionate frontend developer from Myanmar.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFD615&background=8EFFE700&lines=I'm+a+MERN+stack+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **web & mobile development**
 
