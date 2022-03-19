@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
-<img src='[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFD615&background=8EFFE700&lines=I'm+a+MERN+stack+developer)](https://git.io/typing-svg)
-'>
+<img src='[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFD615&background=8EFFE700&lines=I'm+a+MERN+stack+developer
+'/>
 - 🌱 I’m currently learning **web & mobile development**
 
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
