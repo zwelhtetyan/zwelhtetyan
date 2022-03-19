@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **web & mobile development**
 
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
