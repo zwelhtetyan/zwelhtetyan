@@ -15,7 +15,6 @@
 
 ![Zwel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwelhtetyan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&layout=compact)](https://github.com/zwelhtetyan/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/AVS1508">
