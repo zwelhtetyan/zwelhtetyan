@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
 
+<p align="right"> <h3>Profile Views </h3> <img src="https://komarev.com/ghpvc/?username=zwelhtetyan&label=Profile%20views&color=0e75b6&style=flat"
+    alt="zwelhtetyan" /> 
+ </p>
 
 - 🌱 I’m currently learning **web & mobile development**
 
