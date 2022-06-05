@@ -3,19 +3,15 @@
 <p align="right"> <h3>Profile Views </h3> <img src="https://komarev.com/ghpvc/?username=zwelhtetyan&label=Profile%20views&color=0e75b6&style=flat"
     alt="zwelhtetyan" /> 
  </p>
-
-<p>
+ 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p align='center'>
 - 🌱 I’m currently learning **web & mobile development**
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
-</p>
-</p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p><img align="center"
+
+<p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=zwelhtetyan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="zwelhtetyan" 
     bg_color=#808080/>
