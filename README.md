@@ -4,6 +4,9 @@
     alt="zwelhtetyan" /> 
  </p>
 
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🌱 I’m currently learning **web & mobile development**
 
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
