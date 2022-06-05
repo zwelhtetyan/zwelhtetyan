@@ -15,10 +15,12 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<img
+<p>
+    <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=zwelhtetyan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff& layout=compact"
     alt="zwelhtetyan" 
     bg_color=#808080/>
+</p>
 
 <p align='center'>
   <a href="https://github.com/AVS1508">
