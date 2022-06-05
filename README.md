@@ -16,6 +16,6 @@
     alt="zwelhtetyan" 
     bg_color=#808080/>
 
-<a href="https://github.com/AVS1508" align='left'>
+<a href="https://github.com/AVS1508" align='center'>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zwelhtetyan&show_icons=true&theme=algolia&   include_all_commits=true&count_private=true"/>
  </a>   
