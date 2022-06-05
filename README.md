@@ -10,8 +10,8 @@
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
 
 
-<p align='center'>
-    <img 
+<div align='center'>
+    <img align='left'
     src="https://github-readme-stats.vercel.app/api/top-langs?username=zwelhtetyan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="zwelhtetyan" 
     bg_color=#808080/>
@@ -19,4 +19,4 @@
   <a href="https://github.com/AVS1508">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zwelhtetyan&show_icons=true&theme=algolia&   include_all_commits=true&count_private=true"/>
     </a>
-</p>
+</div>
