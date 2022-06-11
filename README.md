@@ -6,7 +6,7 @@
     alt="zwelhtetyan" />    
  </p>
 
-![Profile views](https://gpvc.arturio.dev/[zwelhtetyan])
+![](https://img.shields.io/badge/stars%20⭐-34-yellow)
  
 
 - 🌱 I’m currently learning **web & mobile development**
