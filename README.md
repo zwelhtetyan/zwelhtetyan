@@ -6,6 +6,7 @@
     alt="zwelhtetyan" />    
  </p>
 
+![Profile views](https://gpvc.arturio.dev/[zwelhtetyan])
  
 
 - 🌱 I’m currently learning **web & mobile development**
