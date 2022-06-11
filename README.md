@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=zwelhtetyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/zwelhtetyan/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/zwelhtetyan/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/zwelhtetyan/StrapDown.js/stargazers/)
 
 - 🌱 I’m currently learning **web & mobile development**
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
