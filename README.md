@@ -2,6 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=zwelhtetyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zwel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zwel_htet_fucking_yan)
 
 
 - 🌱 I’m currently learning **web & mobile development**
@@ -20,10 +21,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zwelhtetyan&theme=tokyonight&hide_border=false)
 
-
-![](https://github-readme-stats.vercel.app/api?username=zwelhtetyan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zwelhtetyan&theme=blue-green&hide_border=true)
 
 
 
