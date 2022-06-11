@@ -13,8 +13,11 @@
 
 <p>
 <!--   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /> -->
-  <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center"/>
+<!--   <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" /> -->
 </p>
+
+  <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center"/>
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
