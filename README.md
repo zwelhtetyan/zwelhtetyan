@@ -5,7 +5,7 @@
 	<img src="https://komarev.com/ghpvc/?username=zwelhtetyan&label=Profile%20views&color=0e75b6&style=flat"
     alt="zwelhtetyan" />    
  </p>
-[![GitHub commits](https://badgen.net/github/commits/zwelhtetyan/Strapdown.js)](https://GitHub.com/zwelhtetyan/StrapDown.js/commit/)
+
  
 
 - 🌱 I’m currently learning **web & mobile development**
