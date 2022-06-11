@@ -16,6 +16,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=zwelhtetyan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zwelhtetyan&theme=blue-green&hide_border=true)
