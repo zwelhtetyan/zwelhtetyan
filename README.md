@@ -19,15 +19,9 @@
 
 
 ### 📊 GitHub Stats:
-<div style="display: flex; flex-direction: row; justify-content: center">  
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) -->
+![](https://github-readme-stats.vercel.app/api?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
   
   
 
