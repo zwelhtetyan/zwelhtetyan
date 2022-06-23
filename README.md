@@ -16,8 +16,9 @@
   <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
