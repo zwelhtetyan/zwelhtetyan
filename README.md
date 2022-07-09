@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning **web & mobile development**
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=flat-square)
+
 ### 🌍 connect me with: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zwel.h.yan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zwel_htet_fucking_yan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwel-htet-yan-00316722a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16779888) 
 
