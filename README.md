@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
 
 - 🌱 I’m currently learning **web development**
-- 📫 How to reach me **zwelhtetyan2001@gmail.com**
+- 📫 How to reach me **zwelhtetyandev@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
