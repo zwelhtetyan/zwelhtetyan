@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zwel Htet Yan</h1>
+## Hi 👋, I'm Zwel Htet Yan
 
 - 🌱 I’m currently learning **web development**
 - 📫 How to reach me **zwelhtetyan2001@gmail.com**
