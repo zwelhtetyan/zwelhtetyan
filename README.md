@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Zwel Htet Yan
 
-- 🌱 I’m currently learning **front-end web development**
+- 🌱 I’m currently learning **full-stack web development**
 - 📫 How to reach me **zwelhtetyandev@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
