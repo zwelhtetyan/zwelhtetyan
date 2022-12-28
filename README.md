@@ -13,5 +13,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
