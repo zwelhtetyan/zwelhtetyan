@@ -11,3 +11,5 @@
 
 ### <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Tech Stacks:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
