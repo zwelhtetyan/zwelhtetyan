@@ -1,7 +1,8 @@
 ## Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Zwel Htet Yan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 
+- 👀 I'm a frontend web developer
 - 🌱 I’m currently learning **full-stack web development**
-- 📫 How to reach me **zwelhtetyandev@gmail.com**
+- 📫 You can reach me from **zwelhtetyandev@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
