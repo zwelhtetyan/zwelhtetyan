@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwel-htet-yan-00316722a/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/zwel.h.yan/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zwelhtetyan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16779888)
 
 ### <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Tech Stacks:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,prisma,tailwind,mui,nodejs,express&perline=5)](https://skillicons.dev)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/zwelhhtetyan/github-readme-stats) -->
