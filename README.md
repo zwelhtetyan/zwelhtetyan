@@ -3,7 +3,7 @@
 - [x] 👨‍💻 I'm a passionate frontend developer
 - [x] 🌱 I’m currently learning **full-stack web development**
 - [x] 📫 You can reach me from **zwelhtetyandev@gmail.com**
-- [x] ⚡️ fun fact: **My fear of ghosts is intense.**
+- [x] ⚡️ fun fact: **My fear of ghosts is intense**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
