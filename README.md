@@ -14,4 +14,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,prisma,postgres,tailwind,mui,nodejs,express)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/zwelhhtetyan/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwelhtetyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/zwelhhtetyan/github-readme-stats)
+ -->
