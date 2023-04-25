@@ -1,9 +1,9 @@
 ## Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Zwel Htet Yan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 
-- [x] 👨‍💻 I'm a passionate frontend developer
-- [x] 🌱 I’m currently learning **full-stack web development**
-- [x] 📫 You can reach me from **zwelhtetyandev@gmail.com**
-- [x] ⚡️ fun fact: **My fear of ghosts is intense**
+-  👨‍💻 I'm a passionate frontend developer
+-  🌱 I’m currently learning **full-stack web development**
+-  📫 You can reach me from **zwelhtetyandev@gmail.com**
+-  ⚡️ fun fact: **My fear of ghosts is intense**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
