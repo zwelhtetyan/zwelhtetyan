@@ -3,6 +3,7 @@
 -  👨‍💻 I'm a passionate frontend developer
 -  🌱 I’m currently learning **full-stack web development**
 -  📫 You can reach me from **zwelhtetyandev@gmail.com**
+-  👀 Currently looking for new opportunities
 -  ⚡️ fun fact: **My fear of ghosts is intense**
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
