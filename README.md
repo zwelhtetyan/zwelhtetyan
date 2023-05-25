@@ -1,6 +1,5 @@
 ## Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Zwel Htet Yan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 
--  👨‍💻 I'm a passionate developer
 -  🌱 I’m currently learning **full-stack web development**
 -  📫 You can reach me from **zwelhtetyandev@gmail.com**
 -  👀 Currently looking for new opportunities
