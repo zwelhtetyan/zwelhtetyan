@@ -2,16 +2,18 @@
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
--  🌱 I’m currently learning **full-stack web development**
--  📫 You can reach me from **zwelhtetyandev@gmail.com**
--  👀 Currently looking for new opportunities
--  ⚡️ fun fact: **My fear of ghosts is intense**
-
 **I am a self-driven junior full-stack developer with a passion for creating innovative and user-friendly web applications. I am consistently enthusiastic about acquiring knowledge in areas that pertain to my field.**
 
 **In my free time, I enjoy reading articles and blogs about web development, as well as occasionally playing games with my friends.**
 
 **👀 I am currently seeking a job opportunity.**
+
+-  🌱 I’m currently learning **full-stack web development**
+-  📫 You can reach me from **zwelhtetyandev@gmail.com**
+-  👀 Currently looking for new opportunities
+-  ⚡️ fun fact: **My fear of ghosts is intense**
+
+
 
 ### <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Tech Stacks:
 
