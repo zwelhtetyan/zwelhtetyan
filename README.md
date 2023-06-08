@@ -7,8 +7,6 @@
 -  👀 Currently looking for new opportunities
 -  ⚡️ fun fact: **My fear of ghosts is intense**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/zwelhtetyan))
-
 ### <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Tech Stacks:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,materialui,redux,nodejs,express,prisma,postgres)](https://skillicons.dev)
