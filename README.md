@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
-**I am a self-driven junior full-stack developer with a passion for creating innovative and user-friendly web applications. I am consistently enthusiastic about acquiring knowledge in areas that pertain to my field.**
+I am a self-driven **`junior full-stack developer`** with a passion for creating innovative and user-friendly web applications. I am consistently enthusiastic about acquiring knowledge in areas that pertain to my field.
 
-**In my free time, I enjoy reading articles and blogs about web development, as well as occasionally playing games with my friends.**
+In my free time, I enjoy reading articles and blogs about **`web development`**, as well as occasionally playing games with my friends.
 
 - 🌱 I’m currently **learning full-stack web development**
 - ⚡️ fun fact: **My fear of ghosts is intense**
