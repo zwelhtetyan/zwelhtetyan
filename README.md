@@ -6,9 +6,9 @@ I am a self-driven **`junior full-stack developer`** with a passion for creating
 
 In my free time, I enjoy reading articles and blogs about **`web development`**, as well as occasionally playing games with my friends.
 
-- 🌱 I’m currently **learning full-stack web development**
-- ⚡️ fun fact: **My fear of ghosts is intense**
-- 👀 I am currently **seeking a job opportunity.**
+- 🌱 I’m currently `learning full-stack web development`
+- ⚡️ fun fact: `My fear of ghosts is intense`
+- 👀 I am currently `seeking a job opportunity.`
 
 ### <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Tech Stacks:
 
