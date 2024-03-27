@@ -2,5 +2,5 @@
 
 ![](https://komarev.com/ghpvc/?username=zwelhtetyan&style=for-the-badge)
 
-Learning to be a `software engineer` in the future 🧑‍💻
+I have been crafting on the `web` for a while now 🧑‍💻
 
